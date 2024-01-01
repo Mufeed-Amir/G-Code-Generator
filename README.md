@@ -14,7 +14,6 @@ writting in python3 and Tkinter library is used to make User interface.
 * Technology Used
 * Note for contributors
 * Feedback
-* Developer
 
 # Features
 
