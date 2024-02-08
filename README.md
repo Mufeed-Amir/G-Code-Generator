@@ -52,7 +52,7 @@ Take raster images (*.jpg ,*.png) as input and generate G-code file as Output al
 
 # Note for contributors
 
-* All Suggestions are Accepted and Wellcome.
+* All Suggestions are Accepted and Welcome.
 * Fork repository and Contribute.
 * Contact mufeed.amir.17290@gmail.com for any query.
 * Extrace zip file or Clone this repository.
